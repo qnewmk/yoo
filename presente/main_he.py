@@ -51,12 +51,12 @@ if nome == 'carol' or nome == 'kaio':
             t += 1
         t = 0
         print('=== feliz aniversário de namoro ===')
-        while t < 55999990:
+        while t < 45999990:
             t += 2
         t = 0
         os.system('cls')
         print('=== te amo muito amor ===')
-        while t < 55999990:
+        while t < 45999990:
             t += 2
         t = 0
         os.system('cls')
@@ -200,7 +200,7 @@ if nome == 'carol' or nome == 'kaio':
                     x = input('digite (back) para voltar\nenter para o menu principal\nqualquer outra coisa para fechar o programa\n')
                 elif res == 5:
                     os.system('cls')
-                    print('http://www.osmais.com/wallpapers/201201/59620d99b0-1400x1050.jpg\n')
+                    print('http://www.dhakatribune.com/assets/uploads/2017/06/godofwar1280-1495124322741.jpg\n')
                     x = input('digite (back) para voltar\nenter para o menu principal\nqualquer outra coisa para fechar o programa\n')
         elif res == 'e':
             x = 'back'
